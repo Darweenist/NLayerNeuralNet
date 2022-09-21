@@ -1,0 +1,7 @@
+number of activation layers=7
+number of activations in each layer=2 4 6 8 6 4 3
+weights upper bound=2.1
+weights lower bound=-1.9
+learning factor=4.9
+maximum iterations=10000
+error threshold=0.001

@@ -1,0 +1,13 @@
+number of training sets=4
+a00=0
+a01=0
+T=0
+a00=1
+a01=0
+T=0
+a00=0
+a01=1
+T=0
+a00=1
+a01=1
+T=1
